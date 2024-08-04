@@ -1,6 +1,8 @@
-home_work = 12
-hour_work = 1.5
-name = 'Python'
-time_work = hour_work / home_work
-print('Курс: ',name,', всего задач: ',home_work,', затрачено часов: ',hour_work,
-      ', среднее время выполнения ',time_work,' часа.')
+name = "Urban"
+print(name, type(name))
+name = 5
+print(name, type(name))
+name = 5.5
+print(name, type(name))
+name = [1, 2]
+print(name, type(name))
